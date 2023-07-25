@@ -1,0 +1,385 @@
+Instrument Serial Number: 0000022505
+			
+Date and Time: 2023-04-19T20:11:36
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 59
+Dose (Gy): -0,00014
+Average Rate (Gy/min): 0
+Dose per MU: 0
+Charge (C): 5e-13
+Ambient Temp, Press Correction: 1,019
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:14:40
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 83
+Dose (Gy): 1,005
+Average Rate (Gy/min): 0,724
+Dose per MU: 0
+Charge (C): -3,639e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:17:25
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 6
+Dose (Gy): -0,00014
+Average Rate (Gy/min): -0,001
+Dose per MU: 0
+Charge (C): 5e-13
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:17:38
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 0
+Dose (Gy): 7e-05
+Average Rate (Gy/min): 0,005
+Dose per MU: 0
+Charge (C): -2e-13
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:18:20
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 46
+Dose (Gy): 0,00051
+Average Rate (Gy/min): 0,001
+Dose per MU: 0
+Charge (C): -1,8e-12
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:19:14
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 50
+Dose (Gy): 1,006
+Average Rate (Gy/min): 1,186
+Dose per MU: 0
+Charge (C): -3,642e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:21:37
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 32
+Dose (Gy): 0,9964
+Average Rate (Gy/min): 1,831
+Dose per MU: 0
+Charge (C): -3,607e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:22:57
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 31
+Dose (Gy): 0,9959
+Average Rate (Gy/min): 1,889
+Dose per MU: 0
+Charge (C): -3,606e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:24:04
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 34
+Dose (Gy): 0,9975
+Average Rate (Gy/min): 1,726
+Dose per MU: 0
+Charge (C): -3,611e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:25:07
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 36
+Dose (Gy): 0,9939
+Average Rate (Gy/min): 1,619
+Dose per MU: 0
+Charge (C): -3,598e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:27:34
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 33
+Dose (Gy): 1,044
+Average Rate (Gy/min): 1,857
+Dose per MU: 0
+Charge (C): -3,78e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:28:39
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 34
+Dose (Gy): 1,044
+Average Rate (Gy/min): 1,806
+Dose per MU: 0
+Charge (C): -3,78e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:29:27
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 48
+Dose (Gy): 1,045
+Average Rate (Gy/min): 1,306
+Dose per MU: 0
+Charge (C): -3,782e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:30:42
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 41
+Dose (Gy): 1,1
+Average Rate (Gy/min): 1,576
+Dose per MU: 0
+Charge (C): -3,984e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:31:43
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 42
+Dose (Gy): 1,1
+Average Rate (Gy/min): 1,543
+Dose per MU: 0
+Charge (C): -3,983e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:32:58
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 32
+Dose (Gy): 1,096
+Average Rate (Gy/min): 2,014
+Dose per MU: 0
+Charge (C): -3,969e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:33:58
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 34
+Dose (Gy): 1,061
+Average Rate (Gy/min): 1,837
+Dose per MU: 0
+Charge (C): -3,842e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:34:57
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 29
+Dose (Gy): 1,084
+Average Rate (Gy/min): 2,194
+Dose per MU: 0
+Charge (C): -3,924e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:36:50
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 52
+Dose (Gy): 1,032
+Average Rate (Gy/min): 1,172
+Dose per MU: 0
+Charge (C): -3,736e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:38:11
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 38
+Dose (Gy): 1,031
+Average Rate (Gy/min): 1,597
+Dose per MU: 0
+Charge (C): -3,733e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:39:17
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 35
+Dose (Gy): 1,053
+Average Rate (Gy/min): 1,77
+Dose per MU: 0
+Charge (C): -3,812e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:40:25
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 32
+Dose (Gy): 1,048
+Average Rate (Gy/min): 1,922
+Dose per MU: 0
+Charge (C): -3,796e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:41:26
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 38
+Dose (Gy): 1,037
+Average Rate (Gy/min): 1,607
+Dose per MU: 0
+Charge (C): -3,755e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2023-04-19T20:42:25
+Sensor: 4
+Sensor Name: CC13 (Compact Chamber)
+Sensor Serial Number: 96560
+Bias Voltage (V): OFF
+Input Range: 0-10 nA
+Measurement Time (s): 31
+Dose (Gy): 1,04
+Average Rate (Gy/min): 1,975
+Dose per MU: 0
+Charge (C): -3,766e-09
+Ambient Temp, Press Correction: 1,017
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0

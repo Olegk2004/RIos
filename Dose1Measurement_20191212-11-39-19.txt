@@ -1,0 +1,145 @@
+Instrument Serial Number: 0000014875
+			
+Date and Time: 2019-12-12T10:45:47
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 300
+Input Range: 0-10 nA
+Measurement Time (s): 55
+Dose (Gy): 0,00015
+Average Rate (Gy/min): 0,0002
+Dose per MU: 0
+Charge (C): -3,1e-12
+Ambient Temp, Press Correction: 1,001
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2019-12-12T10:48:16
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 300
+Input Range: 0-10 nA
+Measurement Time (s): 31
+Dose (Gy): 7e-05
+Average Rate (Gy/min): 0,0001
+Dose per MU: 0
+Charge (C): -1,4e-12
+Ambient Temp, Press Correction: 1,016
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2019-12-12T10:48:49
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 300
+Input Range: 0-10 nA
+Measurement Time (s): 60
+Dose (Gy): 0,00019
+Average Rate (Gy/min): 0,0002
+Dose per MU: 0
+Charge (C): -3,9e-12
+Ambient Temp, Press Correction: 1,016
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2019-12-12T11:03:28
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 300
+Input Range: 0-10 nA
+Measurement Time (s): 60
+Dose (Gy): 2,229
+Average Rate (Gy/min): 2,229
+Dose per MU: 0
+Charge (C): -4,581e-08
+Ambient Temp, Press Correction: 1,016
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0
+			
+Date and Time: 2019-12-12T11:31:18
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 300
+Input Range: 0-10 nA
+Measurement Time (s): 56
+Dose (Gy): 0,835
+Average Rate (Gy/min): 0,8816
+Dose per MU: 0
+Charge (C): -1,716e-08
+Ambient Temp, Press Correction: 1,016
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0,0002
+			
+Date and Time: 2019-12-12T11:32:16
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 300
+Input Range: 0-10 nA
+Measurement Time (s): 46
+Dose (Gy): 0,8344
+Average Rate (Gy/min): 1,067
+Dose per MU: 0,00834
+Charge (C): -1,714e-08
+Ambient Temp, Press Correction: 1,016
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0,0002
+			
+Date and Time: 2019-12-12T11:33:11
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 300
+Input Range: 0-10 nA
+Measurement Time (s): 53
+Dose (Gy): 0,8348
+Average Rate (Gy/min): 0,9288
+Dose per MU: 0,00835
+Charge (C): -1,715e-08
+Ambient Temp, Press Correction: 1,016
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0,0002
+			
+Date and Time: 2019-12-12T11:35:43
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 300
+Input Range: 0-10 nA
+Measurement Time (s): 44
+Dose (Gy): 0,4898
+Average Rate (Gy/min): 0,6556
+Dose per MU: 0,0049
+Charge (C): -1,006e-08
+Ambient Temp, Press Correction: 1,016
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0,0002
+			
+Date and Time: 2019-12-12T11:36:31
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 300
+Input Range: 0-10 nA
+Measurement Time (s): 16
+Dose (Gy): 0,1105
+Average Rate (Gy/min): 0,4074
+Dose per MU: 0,0049
+Charge (C): -2,27e-09
+Ambient Temp, Press Correction: 1,016
+Correction Factor: 1
+User Factor: not used
+BKG Correction (Gy/min): 0,0002

@@ -1,0 +1,49 @@
+Instrument Serial Number: 0000022505
+			
+Date and Time: 2023-07-25T15:38:26
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 7
+Dose (Gy): -2e-05
+Average Rate (Gy/min): -0,0002
+Dose per MU: 0
+Charge (C): 5e-13
+Ambient Temp, Press Correction: not used
+Correction Factor: not used
+User Factor: not used
+BKG Correction (Gy/min): not used
+			
+Date and Time: 2023-07-25T15:38:39
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 10
+Dose (Gy): 6e-05
+Average Rate (Gy/min): 0,0003
+Dose per MU: 0
+Charge (C): -1,2e-12
+Ambient Temp, Press Correction: not used
+Correction Factor: not used
+User Factor: not used
+BKG Correction (Gy/min): not used
+			
+Date and Time: 2023-07-25T15:38:53
+Sensor: 8
+Sensor Name: FC65-G
+Sensor Serial Number: 3125
+Bias Voltage (V): 299
+Input Range: 0-10 nA
+Measurement Time (s): 6
+Dose (Gy): -2e-05
+Average Rate (Gy/min): -0,0002
+Dose per MU: 0
+Charge (C): 4e-13
+Ambient Temp, Press Correction: not used
+Correction Factor: not used
+User Factor: not used
+BKG Correction (Gy/min): not used
